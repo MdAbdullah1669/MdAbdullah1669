@@ -1,6 +1,6 @@
 
 
-# Hi, I’m Fahim Faysal  
+# Hi, I’m Md Abdullah
 🌟 **Software Developer | Full-Stack Web Developer | Data Analyst**
 
 I’m a Computer Science student specializing in full-stack web development and data analysis, dedicated to building innovative solutions that solve real-world problems.
